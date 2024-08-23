@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules
+
+# Build output
+dist
+build
+
+# Storybook build directory
+storybook-static
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Cache directories
+.cache
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
