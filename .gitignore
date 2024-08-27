@@ -28,3 +28,5 @@ storybook-static
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+*storybook.log
